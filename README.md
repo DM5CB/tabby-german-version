@@ -1,3 +1,5 @@
+# German translation is in progress
+
 # Tabby - A friendly tool to manage debt
 
 Tabby is a tool I made for myself due to lack of practical and unannoying tools to manage debt and remind people about it. Since existing solutions require accounts for people to even see how much you owe, or have other annoying requirements or missing features, I created Tabby with the idea that it would serve all of my needs and be as enjoyable for my debtors as possible (I was mostly just tired of reminding people to pay back their meals). 
